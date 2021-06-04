@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - :seedling: &nbsp;I’m currently learning **VIM** and **Data Structures**
 - :speech_balloon: &nbsp;I like to talk about **Game development** and **Environment modelling**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :speaker: &nbsp;I'll be adding my slides at **[Slideshare]**
 
 <br>
 
