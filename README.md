@@ -28,24 +28,25 @@ Here are some ideas to get you started:
 - :seedling: &nbsp;I’m currently learning **VIM** and **Data Structures**
 - :speech_balloon: &nbsp;I like to talk about **Game development** and **Environment modelling**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :speaker: &nbsp;I'll be adding my slides at **[Slideshare]**
+- :speaker: &nbsp;Soon, I'll be adding my slides at **[Slideshare]**
+- :book: Reading **Mostly Adequate Guide to Functional Programming**
 
 <br>
 
-<h2 align="left" id="skywalkerluc-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with 🔧
 
-<br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Csharp](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <!--
 Add slideshare posts later
