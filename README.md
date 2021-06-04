@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <a href="#skywalkerluc-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=skywalkerluc&show_icons=true&count_private=true&include_all_commits=true" alt="skywalkerluc" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skywalkerluc&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true" alt="skywalkerluc" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[Thoughtworks]**
