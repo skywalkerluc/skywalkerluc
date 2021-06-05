@@ -1,7 +1,3 @@
-<script>
-  document.getElementsByClassName("text-mono text-small mb-3")[0].hidden = true
-</script>
-
 <h1 align="left" id="skywalkerluc-title">:wave: Hello there! I'm Lucas Ferreira</h1>
 <h4 align="left">A software developer from Brazil. I love building applications & discussing new product ideas. Reach out to me on twitter if you'd like to talk ✌️</h4>
 
