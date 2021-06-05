@@ -37,15 +37,15 @@ Here are some ideas to get you started:
 > Tools, languages, and other things that I like to work with 🔧
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Csharp](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c-sharp)
+![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c-sharp)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=node-dot-js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat-square&logo=microsoft-azure)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <!--
