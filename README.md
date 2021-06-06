@@ -12,7 +12,7 @@
 - :seedling: &nbsp;I’m currently learning **VIM** and **Data Structures**
 - :speech_balloon: &nbsp;I like to talk about **Game development** and **Environment modelling**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :speaker: &nbsp;Soon, I'll be adding my slides at **[Slideshare]**
+- :speaker: &nbsp;Adding my slides at **[Speakerdeck]**
 - :book: Reading **Mostly Adequate Guide to Functional Programming**
 
 <br>
@@ -42,6 +42,6 @@ Add slideshare posts later
 [twitter]: https://twitter.com/lucas_hbf
 [twitch]: https://www.twitch.tv/skywalkerluca
 [github]: https://github.com/skywalkerluc
-[slideshare]: https://www.slideshare.net/lucashbf
+[speakerdeck]: https://speakerdeck.com/skywalkerluc/
 [thoughtworks]: https://www.thoughtworks.com/
 
