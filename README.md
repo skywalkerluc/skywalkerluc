@@ -8,6 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=skywalkerluc&theme=synthwave&show_icons=true&count_private=true&include_all_commits=true" alt="skywalkerluc" align="right" />
 </a>
 
+<br>
+
 - :office: &nbsp;I'm currently working at **[Thoughtworks]**
 - :seedling: &nbsp;I’m currently learning **VIM** and **Data Structures**
 - :speech_balloon: &nbsp;I like to talk about **Game development** and **Environment modelling**
