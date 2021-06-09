@@ -12,7 +12,7 @@
 
 - :office: &nbsp;I'm currently working at **[Thoughtworks]**
 - :seedling: &nbsp;I’m currently learning **VIM** and **Data Structures**
-- :speech_balloon: &nbsp;I like to talk about **Game development** and **Environment modelling**
+- :speech_balloon: &nbsp;Love talking about **Game development** and **Environment modelling**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :speaker: &nbsp;Adding my slides at **[Speakerdeck]**
 - :writing_hand: &nbsp; Writing at **[Medium]**
