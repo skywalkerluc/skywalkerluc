@@ -16,7 +16,7 @@
 - :speaker: &nbsp;Adding my slides at **[Speakerdeck]**
 - :writing_hand: &nbsp; Writing at **[Medium]**
 - :book: Reading **Mostly Adequate Guide to Functional Programming**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Reach me out at **[LinkedIn]** or **[Twitter]**
 
 <br>
 
