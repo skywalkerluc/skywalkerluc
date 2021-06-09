@@ -15,6 +15,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Game development** and **Environment modelling**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :speaker: &nbsp;Adding my slides at **[Speakerdeck]**
+- :writing_hand: &nbsp; Writing at **[Medium]**
 - :book: Reading **Mostly Adequate Guide to Functional Programming**
 
 <br>
@@ -45,5 +46,6 @@ Add slideshare posts later
 [twitch]: https://www.twitch.tv/skywalkerluca
 [github]: https://github.com/skywalkerluc
 [speakerdeck]: https://speakerdeck.com/skywalkerluc/
+[medium]: https://medium.com/@lucas_hbf
 [thoughtworks]: https://www.thoughtworks.com/
 
