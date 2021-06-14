@@ -13,7 +13,7 @@
 - :office: &nbsp;I'm currently working at **[Thoughtworks]**
 - :seedling: &nbsp;Learning **VIM** and **Data Structures**
 - :speech_balloon: &nbsp;Love talking about **Game development** and **Environment modelling**
-- :speaker: &nbsp;Adding my slides at **[Speakerdeck]**
+- :speaking_head: &nbsp;Adding my slides at **[Speakerdeck]**
 - :writing_hand: &nbsp; Writing at **[Medium]**
 - :book: Reading **Mostly Adequate Guide to Functional Programming**
 - :computer: &nbsp;Reach me out at **[LinkedIn]** or **[Twitter]**
