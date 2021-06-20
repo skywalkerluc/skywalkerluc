@@ -35,6 +35,7 @@
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat-square&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 
 <!--
 Add slideshare posts later
