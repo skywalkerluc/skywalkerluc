@@ -1,5 +1,5 @@
 <h1 align="left" id="skywalkerluc-title">:wave: Hello there! I'm Lucas Ferreira</h1>
-<h4 align="left">A software developer from Brazil. I love building applications & discussing new product ideas. Reach out to me on twitter if you'd like to talk ✌️</h4>
+<h4 align="left">A brazilian software developer. I love building applications, discussing new product ideas and games (development, modelling). Feel free to reach out to me on twitter ✌️</h4>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lucas_hbf?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/dani_akash_?label=LiveStream&style=for-the-badge)][twitch]
 
