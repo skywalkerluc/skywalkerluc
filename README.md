@@ -11,7 +11,7 @@
 <br>
 
 - :office: &nbsp;I'm currently working at **[Thoughtworks]**
-- :seedling: &nbsp;Studying as much as possible **Unity** and trying again **VIM**
+- :seedling: &nbsp;Studying as much as possible **Unity** and deciding if I'll embrace **C++** and **Unreal**
 - :speech_balloon: &nbsp;Love talking about **Game development** and **Environment modelling**
 - :speaking_head: &nbsp;Adding my slides at **[Speakerdeck]**
 - :writing_hand: &nbsp; Writing at **[Medium]**
