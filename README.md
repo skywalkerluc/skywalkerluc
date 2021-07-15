@@ -36,6 +36,7 @@
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-000000?style=flat-square&logo=microsoft-azure)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
+![Maya](https://img.shields.io/badge/-Maya-black?style=flat-square&logo=maya)
 
 <!--
 Add slideshare posts later
