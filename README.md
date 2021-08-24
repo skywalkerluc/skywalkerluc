@@ -28,6 +28,7 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=green)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
