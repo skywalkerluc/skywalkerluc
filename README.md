@@ -52,5 +52,5 @@ Add slideshare posts later
 [github]: https://github.com/skywalkerluc
 [speakerdeck]: https://speakerdeck.com/skywalkerluc/
 [medium]: https://medium.com/@lucas_hbf
-[thoughtworks]: https://www.thoughtworks.com/
+[Nubank]: https://www.nubank.com.br/
 
