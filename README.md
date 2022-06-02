@@ -16,7 +16,7 @@
 - :speech_balloon: &nbsp;Love talking about **Game development** and **Environment modelling**
 - :speaking_head: &nbsp;Adding my slides at **[Speakerdeck]**
 - :writing_hand: &nbsp; Writing at **[Medium]**
-- :book: Reading **Mostly Adequate Guide to Functional Programming**
+- :book: Reading **Clojure for the brave and true**
 - :computer: &nbsp;Reach me out at **[LinkedIn]** or **[Twitter]**
 
 <br>
