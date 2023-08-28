@@ -53,5 +53,5 @@ Add slideshare posts later
 [github]: https://github.com/skywalkerluc
 [speakerdeck]: https://speakerdeck.com/skywalkerluc/
 [medium]: https://medium.com/@lucas_hbf
-[Nubank]: https://www.caju.com.br/
+[Caju]: https://www.caju.com.br/
 
