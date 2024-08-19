@@ -11,9 +11,9 @@
 <br>
 
 - :office: &nbsp;I'm currently working at **[Caju]**
-- :seedling: &nbsp;Studying as much as possible **Unity** and deciding if I'll embrace **C++** and **Unreal**
+- :seedling: &nbsp;Studying as much as possible **Unreal**
 - :book: &nbsp;Also trying python and some speech recognition libs
-- :speech_balloon: &nbsp;Love talking about **Game development** and **Environment modelling**
+- :speech_balloon: &nbsp;Love talking about **Game development** and **Environment modeling**
 - :speaking_head: &nbsp;Adding my slides at **[Speakerdeck]**
 - :writing_hand: &nbsp; Writing at **[Medium]**
 - :book: Reading **Clojure for the brave and true**
