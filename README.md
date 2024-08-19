@@ -1,5 +1,5 @@
 <h1 align="left" id="skywalkerluc-title">:wave: Hello there! I'm Lucas Ferreira</h1>
-<h4 align="left">A brazilian software developer. I love building applications, discussing new product ideas and games (development, modelling). Feel free to reach out to me on twitter ✌️</h4>
+<h4 align="left">A brazilian software developer. I love building applications, discussing new product ideas and games (development, modeling). Feel free to reach out to me on twitter ✌️</h4>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lucas_hbf?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter] [![Twitch Status](https://img.shields.io/twitch/status/dani_akash_?label=LiveStream&style=for-the-badge)][twitch]
 
@@ -25,6 +25,7 @@
 > Tools, languages, and other things that I like to work with 🔧
 
 ![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=c-sharp)
+![Scala](https://img.shields.io/badge/-Scala-black?style=flat-square&logo=scala)
 ![Clojure](https://img.shields.io/badge/-Clojure-black?style=flat-square&logo=clojure)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=green)
